@@ -1,2 +1,2 @@
-# ece-283
+# ece283
 ucsb ece283
